@@ -12,6 +12,7 @@ There will be 5 repos, where 2~5 are submodule of the first one.
 3. `backend`: The web backend, handling requests from QQ bot.
 4. `worker`: The worker for backend, who really casts spell (deep learning computation).
 5. `stable_diffusion`: The standalone service who provides anime image generation.
+6. `frontend`: The web frontend, written with React. Also holds the reversed proxy.
 
 <!--
 
