@@ -1,5 +1,5 @@
 # Hyuuganatsu Project
-Hi! This project is still under construction. You can visit [日向夏Web](http://sr-orenji.ml:6990/) to try the functionalities!
+Hi! This project is still under construction. You can visit [日向夏Web](https://orenji.uk) to try the functionalities!
 
 ## What does the Hyuuganatsu Project do?
 It's a comprehensive project to make it easy for anyone to play with AI functionalities. We currenty have web and QQ bot as user-end, and super-resolution, text-to-speech, stable-diffusion as behind-the-scene magic.
